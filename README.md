@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Amos Komen 👋
+### Full-Stack Engineer | React Native & Node.js Specialist
 
-<!--
-**amoskomen/amoskomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently shipping the **Munchies Ecosystem**—a 4-app suite designed to revolutionize food delivery logistics. I specialize in building scalable mobile applications and robust backends that handle real-time data flow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm working on
+- **Munchies Client:** Finalizing production approval for the flagship app.
+- **Infrastructure:** Optimizing MongoDB queries and Upstash caching for low-latency performance.
+- **Data:** Visualizing business metrics using Tableau to drive data-led decisions.
+
+### 🛠 Tech Stack
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+
+### 📊 GitHub Stats
+![Amos's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoskomen&show_icons=true&theme=radical&rank_icon=github)
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [in/amos-kipkoech-71454753](https://www.linkedin.com/in/amos-kipkoech-71454753)
+- **Email:** kkomenamos@gmail.com
+- **Portfolio:** [Tableau Vizzes](https://public.tableau.com/app/profile/amos.komen/vizzes)
