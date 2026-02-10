@@ -18,10 +18,9 @@ I am currently shipping the **Munchies Ecosystem**—a 4-app suite designed to r
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 ### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=amoskomen&show_icons=true&theme=radical&rank_icon=github" alt="Amos Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoskomen&layout=compact&theme=radical" alt="Amos Languages" width="300" />
-</p>
+![Amos's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoskomen&show_icons=true&theme=radical&rank_icon=github)
+
+---
 
 ### 📫 Let's Connect
 - **LinkedIn:** [in/amos-kipkoech-71454753](https://www.linkedin.com/in/amos-kipkoech-71454753)
