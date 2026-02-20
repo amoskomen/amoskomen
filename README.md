@@ -6,8 +6,9 @@ I am currently shipping the **Munchies Ecosystem**—a 4-app suite designed to r
 ---
 
 ### 🚀 What I'm working on
-- **Munchies Client:** Finalizing production approval for the flagship app.
+- **Munchies Client:** Production access and in open beta for the flagship app.
 - **Infrastructure:** Optimizing MongoDB queries and Upstash caching for low-latency performance.
+- - **AI & E-commerce:** Integrating LLMs (GPT-4o) with Shopify GraphQL APIs to automate merchant workflows and product intelligence.
 - **Data:** Visualizing business metrics using Tableau to drive data-led decisions.
 
 ### 🛠 Tech Stack
